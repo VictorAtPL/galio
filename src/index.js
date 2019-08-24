@@ -28,7 +28,6 @@ export {
   Text,
   Toast,
   Switch,
-  Toast,
   theme,
   withGalio,
   GalioProvider,
